@@ -28,7 +28,8 @@
 	},
 	"homepage": "https://github.com/dragonfire535/xiao#readme",
 	"engines": {
-		"node": "15.x"
+		"node": "15.x",
+                "git": "7.x"
 	},
 	"dependencies": {
 		"@discordjs/collection": "^0.1.6",
